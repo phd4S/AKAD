@@ -4,7 +4,7 @@ Damit kann man die Quellcodebeispiele nachvollziehen und selbst etwas experiment
 
 ## Docker installieren
 - Entweder als [Docker Desktop für Windows](https://www.docker.com/products/docker-desktop/)
-- oder als Packat unter Linux z.B. Ubuntu: "sudo apt install docker.io"
+- oder als Packet unter Linux z.B. Ubuntu: "sudo apt install docker.io"
 - oder manuell z.B. mit [VirtualBox](https://www.virtualbox.org/) und z.B. [Alpine Linux](https://www.alpinelinux.org/downloads/), mit nachfolgendem Skript:
 
       VM via Alpine Linux (alpine-virt-3.17.1-x86_64)
