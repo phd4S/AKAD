@@ -1,5 +1,4 @@
-# Begleitmaterial zum Kurzvortrag
-## Transaktionskonzepte in No-SQL Datenbanken
+# Begleitmaterial zum Kurzvortrag "Transaktionskonzepte in No-SQL Datenbanken"
 
 Links aus den Folien:
 - https://db-engines.com/de/ranking
