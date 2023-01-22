@@ -34,7 +34,7 @@ Damit kann man die Quellcodebeispiele nachvollziehen und selbst etwas experiment
       docker run -d -p 30002:30002 --name mongo2 --net mongo-cluster -v mongo2_data:/data/db -v mongo2_config:/data/configdb mongo mongod --replSet rs1 --port 30002
       docker run -d -p 30003:30003 --name mongo3 --net mongo-cluster -v mongo3_data:/data/db -v mongo3_config:/data/configdb mongo mongod --replSet rs1 --port 30003
       
-      Evtl. in der VM dann nicht vergessen die Ports 30001 bis 30003 per NAT freizugeben.
+      Evtl. in der VM dann nicht vergessen, die Ports 30001 bis 30003 per NAT freizugeben.
 
 
 ## ReplicaSet konfigurieren
