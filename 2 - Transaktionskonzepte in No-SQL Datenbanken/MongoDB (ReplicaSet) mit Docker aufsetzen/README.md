@@ -3,9 +3,9 @@
 Damit kann man die Quellcodebeispiele nachvollziehen und selbst etwas experimentieren.
 
 ## Docker installieren
-- Entweder als Docker Desktop für Windows [https://www.docker.com/products/docker-desktop/]
+- Entweder als [Docker Desktop für Windows](https://www.docker.com/products/docker-desktop/)
 - oder als Packat unter Linux z.B. Ubuntu: "sudo apt install docker.io"
-- oder manuell (z.B. mit VirtualBox [https://www.virtualbox.org/] und z.B. Alpine Linux [https://www.alpinelinux.org/downloads/], mit nachfolgendem Skript:
+- oder manuell (z.B. mit [VirtualBox](https://www.virtualbox.org/) und z.B. [Alpine Linux](https://www.alpinelinux.org/downloads/), mit nachfolgendem Skript:
 
       VM via Alpine Linux (alpine-virt-3.17.1-x86_64)
       VirtualBox: Linux (64-bit), 4096 MB, 4 CPUs, 80 GB VDI, No Audio, NAT, USB-1.1
@@ -54,4 +54,4 @@ Damit kann man die Quellcodebeispiele nachvollziehen und selbst etwas experiment
 
 Man könnte natürlich mit der MongoDB Shell (docker exec -it mongo1 mongosh --port 30001) arbeiten, aber bequemer geht es mit einem MongoDB GUI Client
 
-- z.B. Studio 3T [https://studio3t.com/]
+- z.B. [Studio 3T](https://studio3t.com/)
