@@ -1,5 +1,7 @@
 # Begleitmaterial zum Kurzvortrag "Transaktionskonzepte in No-SQL Datenbanken"
 
+Foliensatz [AKAD-2.pdf](https://github.com/phd4S/AKAD/blob/main/2%20-%20Transaktionskonzepte%20in%20No-SQL%20Datenbanken/AKAD-2.pdf)
+
 Links aus den Folien:
 - https://db-engines.com/de/ranking
 - https://www.w3resource.com/mongodb/nosql.php
