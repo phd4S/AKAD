@@ -49,6 +49,63 @@ Damit kann man die Quellcodebeispiele nachvollziehen und selbst etwas experiment
           ]}
       test> rs.initiate(config)
       test> rs.status()
+      
+## Alternative mit Docker-Compose
+
+Evtl. muss dies noch nachinstalliert werden (z.B. Ubuntu: sudo apt install docker-compose)
+
+Datei: **docker-compose.yml**
+
+      services:
+        mongo1:
+          hostname: mongo1
+          image: mongo
+          expose:
+            - 30001
+          ports:
+            - 30001:30001
+          command: mongod --replSet rs1 --port 30001
+        mongo2:
+          hostname: mongo2
+          image: mongo
+          expose:
+            - 30002
+          ports:
+            - 30002:30002
+          command: mongod --replSet rs1 --port 30002
+        mongo3:
+          hostname: mongo3
+          image: mongo
+          expose:
+            - 30003
+          ports:
+            - 30003:30003
+          command: mongod --replSet rs1 --port 30003
+
+        mongoinit:
+          image: mongo
+          # this container will exit after executing the command
+          restart: "no"
+          depends_on:
+            - mongo1
+            - mongo2
+            - mongo3
+          command: >
+            mongo --host mongo1:30001 --eval 
+            '
+            db = (new Mongo("localhost:30001")).getDB("test");
+            config = {
+            "_id" : "rs1",
+            "members" : [
+                { "_id" : 0, "host" : "mongo1:30001" },
+                { "_id" : 1, "host" : "mongo2:30002" },
+                { "_id" : 2, "host" : "mongo3:30003" }
+            ] };
+            rs.initiate(config);
+            '      
+
+Wenn die Datei angelegt wurde, kann mit **docker compose up** das Deployment gestartet werden.
+
 
 ## Client installieren
 
