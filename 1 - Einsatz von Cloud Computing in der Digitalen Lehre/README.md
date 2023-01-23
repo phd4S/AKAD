@@ -19,10 +19,7 @@ Management Plattformen
 - [ILIAS](https://www.ilias.de/)
 - [OpenOLAT](https://www.openolat.com/)
 
-Lernplattformen
-- [SimpleClub](https://app.simpleclub.com/welcome)
-
-Lernplattformen um Programmieren zu lernen (z.B. Java)
+Lernplattformen, um z.B. Programmieren zu lernen
 - [CodeGym](https://codegym.cc/de/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [codewars](https://www.codewars.com/)
