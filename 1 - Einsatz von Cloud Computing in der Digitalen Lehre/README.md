@@ -12,12 +12,12 @@ Konferenzsysteme
 
 Kollaborationssysteme
 - [OpenBoard](https://openboard.de/)
-- [Mentimeter](https://www.mentimeter.com/)
-- [Google Jamboard](https://jamboard.google.com/d/1fKZHzcR_rLaFJNLPpoHCwUahrbBItssfAiWAFmZRVdM/edit?usp=sharing)
+- [Mentimeter](https://www.mentimeter.com/) ( [Voting](https://www.menti.com/al15pypn3xi6) ! )
+- [Google Jamboard](https://jamboard.google.com/) ( Ein bisschen [jammen](https://jamboard.google.com/d/1fKZHzcR_rLaFJNLPpoHCwUahrbBItssfAiWAFmZRVdM/edit?usp=sharing) )
 
 Management Plattformen
 - [Moodle](https://moodle.de/)
-- [ILIAS](https://www.ilias.de/)
+- [ILIAS](https://www.ilias.de/) ( [Demo](https://demo.ilias.de/goto_demo_root_1.html) )
 - [OpenOLAT](https://www.openolat.com/)
 
 Lernplattformen, um z.B. Programmieren zu lernen
