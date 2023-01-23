@@ -25,6 +25,10 @@ Lernplattformen, um z.B. Programmieren zu lernen
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [codewars](https://www.codewars.com/)
 
+Lernspiele (offline)
+- Programmieren lernen [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
+- Schaltungsdesign und Mikrokontroller [Shenzhen IO](https://store.steampowered.com/app/504210/SHENZHEN_IO/)
+
 Einsatz von GitHub für Aufgaben
 - [Aufgabe für den Primzahlgenerator](https://github.com/phd4S/Aufgabe_Primzahlgenerator)
 
