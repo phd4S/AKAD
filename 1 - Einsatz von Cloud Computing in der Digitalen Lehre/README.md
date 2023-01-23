@@ -1,6 +1,6 @@
 # Begleitmaterial zum Kurzvortrag "Einsatz von Cloud Computing in der Digitalen Lehre"
 
-Foliensatz [AKAD-1.pdf](https://github.com/phd4S/AKAD/blob/main//AKAD-1.pdf)
+Foliensatz [AKAD-1.pdf](https://github.com/phd4S/AKAD/blob/main/1%20-%20Einsatz%20von%20Cloud%20Computing%20in%20der%20Digitalen%20Lehre/AKAD-1.pdf)
 
 ## Beispiele aus den Folien
 
