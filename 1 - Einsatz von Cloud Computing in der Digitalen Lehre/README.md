@@ -26,8 +26,9 @@ Lernplattformen, um z.B. Programmieren zu lernen
 - [codewars](https://www.codewars.com/)
 
 Lernspiele (offline)
-- Programmieren lernen [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
-- Schaltungsdesign und Mikrokontroller [Shenzhen IO](https://store.steampowered.com/app/504210/SHENZHEN_IO/)
+- Programmieren lernen: [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
+- Schaltungsdesign und Mikrokontroller: [Shenzhen IO](https://store.steampowered.com/app/504210/SHENZHEN_IO/)
+- PC Zusammenbauen: [PC Building Simulator](https://store.steampowered.com/app/621060/PC_Building_Simulator/)
 
 Einsatz von GitHub für Aufgaben
 - [Aufgabe für den Primzahlgenerator](https://github.com/phd4S/Aufgabe_Primzahlgenerator)
