@@ -11,6 +11,7 @@ Konferenzsysteme
 - [WebEx](https://www.webex.com/de/index.html)
 
 Kollaborationssysteme
+- [OpenBoard](https://openboard.de/)
 - [Mentimeter](https://www.mentimeter.com/)
 - [Google Jamboard](https://jamboard.google.com/d/1fKZHzcR_rLaFJNLPpoHCwUahrbBItssfAiWAFmZRVdM/edit?usp=sharing)
 
